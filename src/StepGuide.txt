@@ -1,0 +1,7 @@
+1. Phantom.App 
+wallet add karana hai sub se pehle tou, chrome extension or wallet create karna hai.
+
+2. Intall Solnana Wallet Packages
+https://github.com/solana-labs/wallet-adapter#install
+
+3. 
